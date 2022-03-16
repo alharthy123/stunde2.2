@@ -10,9 +10,9 @@ namespace stunde2._2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine"HALLO LEUTE"
 
-
-            uzfzt
+            uzf
 
         }
     }
